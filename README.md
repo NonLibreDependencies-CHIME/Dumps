@@ -1,10 +1,10 @@
-# MIUI Vendor + Firmware Zips for ***chime*** 
+# MIUI Dumps of ***chime*** 
 
 ### Devices that're unified under the ***chime*** codename;  
 - POCO M3 (*citrus*)
 - Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (*lime*) 
 
-## This repository contains .zip files containing prebuilt blobs from each device's MIUI OTA images.
+## This repository contains .zip files containing prebuilt blobs and other knicknacks from each device's MIUI OTA images.
 
 #### Files Extracted on; (dd/mm/yyyy)
 > 12/07/2023
